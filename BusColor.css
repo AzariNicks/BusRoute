@@ -1,0 +1,23 @@
+#WholeDocument {
+    color: rgb(179, 131, 42);
+    background-color: blue;
+
+
+}
+.Para {
+    color:rgb(150, 50, 150);
+    width: 65px;
+    height: 35px;
+    font-variant: normal;
+    text-decoration: line-through;
+
+}
+
+.FlashColor {
+    color: black;
+   cursor: pointer;
+
+}
+/* Colors we got light Orange 
+Purple
+Blueee and white and black with the wheels */
